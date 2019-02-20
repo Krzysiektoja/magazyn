@@ -1,0 +1,2 @@
+# magazyn
+pierwszy magazyn
